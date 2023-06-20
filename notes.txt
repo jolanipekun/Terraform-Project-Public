@@ -1,0 +1,3 @@
+Ref text source : https://spacelift.io/blog/terraform-aws-vpc
+
+2. Keypair: "https://letmetechyou.com/create-an-aws-key-pair-using-terraform/"
